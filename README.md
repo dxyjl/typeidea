@@ -1,0 +1,1 @@
+Hello,This is Typeidea --Blog system based on Django.
